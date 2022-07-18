@@ -1,4 +1,3 @@
-
 //  Hanlder Route
 
 exports.getAllUsers = (req, res) => {
